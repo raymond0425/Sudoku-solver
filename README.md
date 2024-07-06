@@ -1,2 +1,2 @@
 # Sudoku-solver
-[!Sudoku-sample.png]
+![Sample]Sudoku-sample.png
